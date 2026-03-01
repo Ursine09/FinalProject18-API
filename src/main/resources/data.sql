@@ -1,0 +1,12 @@
+INSERT INTO npc (npc_name) VALUES ('Mario');
+INSERT INTO npc (npc_name) VALUES ('Yoshi');
+INSERT INTO npc (npc_name) VALUES ('Donkey Kong');
+INSERT INTO npc (npc_name) VALUES ('Link');
+INSERT INTO npc (npc_name) VALUES ('Samus');
+INSERT INTO npc (npc_name) VALUES ('Kirby');
+INSERT INTO npc (npc_name) VALUES ('Fox');
+INSERT INTO npc (npc_name) VALUES ('Pikachu');
+INSERT INTO npc (npc_name) VALUES ('Luigi');
+INSERT INTO npc (npc_name) VALUES ('Jigglypuff');
+INSERT INTO npc (npc_name) VALUES ('Captain Falcon');
+INSERT INTO npc (npc_name) VALUES ('Ness');
